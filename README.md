@@ -1,1 +1,1 @@
-These files are from my CIS351 class on circuits and assembly where we learned MIPS32 assembly to learn how languages decompile into machine code and to help with creating more efficient higher-level code.
+These some files are from my CIS351 class on circuits and assembly where we learned MIPS32 assembly to learn how languages decompile into machine code and to help with creating more efficient higher-level code.
